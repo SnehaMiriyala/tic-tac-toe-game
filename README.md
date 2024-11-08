@@ -1,17 +1,18 @@
-# Tic-Tac-Toe Game
+Tic-Tac-Toe Game
 
 A simple Tic-Tac-Toe game built with React. Play against another person locally and enjoy a clean, easy-to-use interface.
 
-## Demo
-[Live Demo](#) <!-- Add the link to your live demo here -->
+ Demo
+[Live Demo]  https://fir-react-tic-tac-toe-game.web.app
 
-## Features
+Features
 - Two-player local game
+-Option to edit your names and save them
 - Win detection and announcement
 - Draw detection
 - Game rematch button
 
-## Installation
+Installation
 1. **Clone the repo**:
    ```bash
    git clone https://github.com/<username>/tic-tac-toe-react.git
