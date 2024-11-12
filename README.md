@@ -1,4 +1,6 @@
 **Tic-Tac-Toe Game**
+![image](https://github.com/user-attachments/assets/f562c217-4fde-4803-b109-1495deaa59e7)
+
 
 A simple Tic-Tac-Toe game built with React. Play against another person locally and enjoy a clean, easy-to-use interface.
 
